@@ -1,2 +1,0 @@
-# nodejsplayground
-Created with CodeSandbox
